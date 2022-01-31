@@ -169,14 +169,6 @@ footer>p {
 
 @media (max-width: 536px) {
 
-  /* .welcome-section section {
-      font-size: 20px;
-    } */
-
-  .contact-header h2 {
-    font-size: 45px;
-  }
-
   .contact-section {
     height: 90vh;
   }
